@@ -12,3 +12,4 @@ cd backend-chat-app
 ### 2. Create and activate virtual environment on windows 
 python -m venv venv
 venv\Scripts\activate 
+
